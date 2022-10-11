@@ -312,4 +312,5 @@ public interface SpecimenCleaningExtendedConfig extends Config
 		section = lamp_settings
 	)
 	default boolean woodcutting() { return true; }
+
 }

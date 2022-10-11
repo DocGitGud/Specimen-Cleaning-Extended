@@ -22,7 +22,6 @@ public class SpecimenCleaningExtendedOverlay extends OverlayPanel
         this.plugin = plugin;
     }
 
-
     @Override
     public Dimension render(Graphics2D graphics)
     {

@@ -419,4 +419,5 @@ public class SpecimenCleaningExtendedPlugin extends Plugin
 	{
 		return configManager.getConfig(SpecimenCleaningExtendedConfig.class);
 	}
+
 }

@@ -10,4 +10,5 @@ public class SpecimenCleaningExtendedPluginTest
 		ExternalPluginManager.loadBuiltin(SpecimenCleaningExtendedPlugin.class);
 		RuneLite.main(args);
 	}
+
 }
